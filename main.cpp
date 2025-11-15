@@ -1,16 +1,5 @@
 /**********************************************************************************************
-*   CUSTOM MONOCOPTER FLIGHT CONTROLLER
-*   Teensy 4.1 + 3 Fin Servos + 2 BLDC ESC + FS-i6X RX + BNO055 NDoF Orientation
-*
-*   Includes:
-*   - Raw PPM/iBUS receiver decoding
-*   - Bosch BNO055 API (hrp Euler)
-*   - PID controller for roll + pitch + yaw
-*   - Full 3-FIN VECTOR CONTROL MIXER (0°,120°,240°)
-*   - Motor throttle stabilizer
-*   - Safety + arming
-*
-*   Author: ChatGPT Flight Systems Lab
+  CUSTOM MONOCOPTER FLIGHT CONTROLLER
 **********************************************************************************************/
 
 #include <Arduino.h>
