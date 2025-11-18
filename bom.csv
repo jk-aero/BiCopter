@@ -1,0 +1,7 @@
+Bicopter Bill of Materials,,,,
+Item,no of items,prize per item(rupees),cost of item,source(link)
+Transmitter with Reciver,1,"5,019.00",5019,https://robu.in/product/flysky-fs-t6-6ch-transmitter-with-fs-r6b-receiver/
+Teensy 4.1,1,"2,759.00",2759,https://robu.in/product/buy-teensy-4-1-development-board//
+mpu9250,1,407,407,https://robu.in/product/mpu9250-9-axis-attitude-gyro-accelerator-magnetometer-sensor-module-2/
+buck module (mp1584),2,39,78,https://robu.in/product/mini-mp1584-dc-dc-3a-adjustable-buck-module-india/
+,Total,,8263,
